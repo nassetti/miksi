@@ -1,7 +1,17 @@
 * {
     background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
 }
 
 h1 { 
     color:black;
+}
+
+.game-area {
+    width: 80vw;
+    height: 60vw;
+    color: aqua;
 }
