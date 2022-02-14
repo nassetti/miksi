@@ -8,5 +8,7 @@ Miksi is a word scramble game with the purpose of helping users learn and practi
 ## Testing
 
 ## References
+[Word Scramble Example](https://codepen.io/IAmAlexJohnson/pen/QRaYJE)
+
 
 
